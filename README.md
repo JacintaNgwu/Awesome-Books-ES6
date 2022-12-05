@@ -33,7 +33,7 @@
 
 > A link to  deploy my project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link]( https://jacintangwu.github.io/Awesome-Books-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
