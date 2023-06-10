@@ -72,8 +72,12 @@ body {
   padding: 5px 0;
 }
 
+.book:nth-child(even) {
+  background: #e8ecec;
+}
+
 .book:nth-child(odd) {
-  background-color: #e8ecec;
+  background: #c7cccc;
 }
 
 #book-list {
