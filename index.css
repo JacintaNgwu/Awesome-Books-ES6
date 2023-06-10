@@ -6,7 +6,8 @@ body {
   color: #000;
   margin-top: 0;
   font-family: lato, sans-serif;
-  background: #ad296b;
+  background: #f5a6b4;
+  padding: 10px;
 }
 
 .header {
@@ -171,7 +172,7 @@ footer {
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 55px;
+  height: 35px;
   padding: 0 50px;
   border: 2.5px solid #000;
   margin-top: 20px;
