@@ -18,7 +18,7 @@ body {
   align-items: center;
   margin: 0 auto;
   padding: 24px 50px;
-  border: 2.5px solid #000;
+  border: 2.5px solid #fff;
 }
 
 .nav-links {
@@ -35,7 +35,7 @@ body {
 
 .list {
   text-decoration: none;
-  color: #000;
+  color: #fff;
   padding: 0 10px;
 }
 
@@ -84,7 +84,7 @@ body {
 #book-list {
   width: 100%;
   height: 355px;
-  border: 2px solid #000;
+  border: 2px solid #fff;
   border-radius: 5px;
   margin-bottom: 20px;
   overflow: auto;
@@ -170,6 +170,6 @@ footer {
   width: 100%;
   height: 35px;
   padding: 0 50px;
-  border: 2.5px solid #000;
+  border: 2.5px solid #fff;
   margin-top: 20px;
 }
