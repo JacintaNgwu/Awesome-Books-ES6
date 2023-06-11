@@ -33,6 +33,10 @@ body {
   text-align: center;
 }
 
+.logo {
+  color: #fff;
+}
+
 .list {
   text-decoration: none;
   color: #fff;
