@@ -19,6 +19,10 @@ body {
   margin: 0 auto;
   padding: 24px 50px;
   border: 2.5px solid #fff;
+  border-radius: 5px;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
 }
 
 .nav-links {
