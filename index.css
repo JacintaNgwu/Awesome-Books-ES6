@@ -29,12 +29,13 @@ body {
 .nav-links li {
   display: inline-block;
   padding: 16px 10px;
-  border-right: 1px solid #000;
+  border-right: 1px solid #fff;
   text-align: center;
 }
 
 .logo {
   color: #fff;
+  font-weigth: 900;
 }
 
 .list {
